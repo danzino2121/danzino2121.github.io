@@ -19,7 +19,7 @@
 - I use optimized template, which saves in LocalStorage font-files. It looks not pretty good at first, but it is very useful.
 - Header.min.css I wrote down in <style> tag at the beginning of index.html. It is very important for making template load more faster, then usual. I could place also a structure.min.css file in <style> tag below, but I didn't.
   
-# What I haven't done
+# What I haven't done yet
 
 !-- Lazy load I've made only for one image - because I have few tags <img> in this template, but a lot of background-images. I will realize that in seem way as I did with simple img - replacing to real-img from dummy.
 
